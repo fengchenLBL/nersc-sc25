@@ -16,7 +16,7 @@ The environment combines:
 
 ---
 
-## 2. High-Level Architecture
+## 2. Architecture
 
 ```mermaid
 flowchart TD
